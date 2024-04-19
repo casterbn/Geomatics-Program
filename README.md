@@ -30,13 +30,13 @@
 
 ## 相关资料
 
-* [教育部高等学校测绘类专业教学指导委员会](https://smt.whu.edu.cn/sshd/dxscxcyznds.htm)：
-* [智绘未来B站账号](https://space.bilibili.com/1965733536)：
-* 测绘程序设计教材：
-* [测绘程序设计例程](https://github.com/ybli/bookcode)：
-* [测绘程序设计配套视频-李英冰](https://www.bilibili.com/video/BV1Gh411e7ow)：
-* [罗宏昆的测绘程序设计仓库](https://github.com/luohongk/CeHuiProgramDesign)：
-* [我22年省赛的界面制作视频](https://pan.baidu.com/s/1XN0B3IF7GJFRDMTwnh73ew?pwd=aust)：
+* [教育部高等学校测绘类专业教学指导委员会](https://smt.whu.edu.cn/sshd/dxscxcyznds.htm)：比赛通知、结果发布地址。
+* [智绘未来B站账号](https://space.bilibili.com/1965733536)：赛前培训直播和录播。
+* [测绘程序设计教材](https://pan.baidu.com/s/1zHryU_X0CNb2JY0wjCn9fA?pwd=aust)/[例程](https://github.com/ybli/bookcode)/[配套视频](https://www.bilibili.com/video/BV1Gh411e7ow)：测绘程序设计比赛的官方参考书、参考例程。
+* [罗宏昆的23测绘程序设计仓库CeHuiProgramDesign)](https://github.com/luohongk/CeHuiProgramDesign)/[24赛题讲解视频](https://www.bilibili.com/video/BV1VM4m1R7xY/?spm_id_from=333.999.0.0)/[界面设计视频](https://www.bilibili.com/video/BV19x4y127MV/?spm_id_from=333.999.0.0)。
+* [我22年省赛的界面设计视频](https://pan.baidu.com/s/1XN0B3IF7GJFRDMTwnh73ew?pwd=aust)：可以和罗哥的界面设计视频结合着看。
+
+## 国赛六个题
 
 1. **空间数据探索性分析**：计算标准误差椭圆、空间权重矩阵、常用空间自相关指数。
    * **算法简介**：
@@ -61,22 +61,8 @@
 
 ## 写程序步骤
 
-* 读题，
-* 设计界面
-* 定义存数据的类型，
-* 写读取文件的代码，
-
-## C#-Winform语法
-
-
-
-
-
-
+* 
 
 ## 常见问题（欢迎提Issue补充）
 
 * 
-
-
-
