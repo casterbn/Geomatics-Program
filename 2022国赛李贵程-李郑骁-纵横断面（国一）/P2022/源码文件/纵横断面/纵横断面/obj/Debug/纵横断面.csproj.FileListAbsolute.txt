@@ -1,0 +1,12 @@
+d:\backup\documents\visual studio 2015\Projects\纵横断面\纵横断面\bin\Debug\纵横断面.exe.config
+d:\backup\documents\visual studio 2015\Projects\纵横断面\纵横断面\bin\Debug\纵横断面.exe
+d:\backup\documents\visual studio 2015\Projects\纵横断面\纵横断面\bin\Debug\纵横断面.pdb
+d:\backup\documents\visual studio 2015\Projects\纵横断面\纵横断面\obj\Debug\纵横断面.csprojResolveAssemblyReference.cache
+d:\backup\documents\visual studio 2015\Projects\纵横断面\纵横断面\obj\Debug\纵横断面.Form1.resources
+d:\backup\documents\visual studio 2015\Projects\纵横断面\纵横断面\obj\Debug\纵横断面.Properties.Resources.resources
+d:\backup\documents\visual studio 2015\Projects\纵横断面\纵横断面\obj\Debug\纵横断面.csproj.GenerateResource.Cache
+d:\backup\documents\visual studio 2015\Projects\纵横断面\纵横断面\obj\Debug\纵横断面.exe
+d:\backup\documents\visual studio 2015\Projects\纵横断面\纵横断面\obj\Debug\纵横断面.pdb
+G:\源码文件\纵横断面\纵横断面\bin\Debug\纵横断面.exe.config
+G:\源码文件\纵横断面\纵横断面\obj\Debug\纵横断面.exe
+G:\源码文件\纵横断面\纵横断面\obj\Debug\纵横断面.pdb

@@ -1,0 +1,19 @@
+d:\backup\documents\visual studio 2015\Projects\利用构建不规则三角网（TIN）进行体积计算\利用构建不规则三角网（TIN）进行体积计算\bin\Debug\利用构建不规则三角网（TIN）进行体积计算.exe.config
+d:\backup\documents\visual studio 2015\Projects\利用构建不规则三角网（TIN）进行体积计算\利用构建不规则三角网（TIN）进行体积计算\obj\Debug\利用构建不规则三角网（TIN）进行体积计算.csprojResolveAssemblyReference.cache
+d:\backup\documents\visual studio 2015\Projects\利用构建不规则三角网（TIN）进行体积计算\利用构建不规则三角网（TIN）进行体积计算\obj\Debug\利用构建不规则三角网_TIN_进行体积计算.Form1.resources
+d:\backup\documents\visual studio 2015\Projects\利用构建不规则三角网（TIN）进行体积计算\利用构建不规则三角网（TIN）进行体积计算\obj\Debug\利用构建不规则三角网_TIN_进行体积计算.Properties.Resources.resources
+d:\backup\documents\visual studio 2015\Projects\利用构建不规则三角网（TIN）进行体积计算\利用构建不规则三角网（TIN）进行体积计算\obj\Debug\利用构建不规则三角网（TIN）进行体积计算.csproj.GenerateResource.Cache
+d:\backup\documents\visual studio 2015\Projects\利用构建不规则三角网（TIN）进行体积计算\利用构建不规则三角网（TIN）进行体积计算\bin\Debug\利用构建不规则三角网（TIN）进行体积计算.exe
+d:\backup\documents\visual studio 2015\Projects\利用构建不规则三角网（TIN）进行体积计算\利用构建不规则三角网（TIN）进行体积计算\bin\Debug\利用构建不规则三角网（TIN）进行体积计算.pdb
+d:\backup\documents\visual studio 2015\Projects\利用构建不规则三角网（TIN）进行体积计算\利用构建不规则三角网（TIN）进行体积计算\obj\Debug\利用构建不规则三角网（TIN）进行体积计算.exe
+d:\backup\documents\visual studio 2015\Projects\利用构建不规则三角网（TIN）进行体积计算\利用构建不规则三角网（TIN）进行体积计算\obj\Debug\利用构建不规则三角网（TIN）进行体积计算.pdb
+D:\2022测绘程序设计练习代码\2022省赛\利用构建不规则三角网（TIN）进行体积计算\利用构建不规则三角网（TIN）进行体积计算\bin\Debug\利用构建不规则三角网（TIN）进行体积计算.exe.config
+D:\2022测绘程序设计练习代码\2022省赛\利用构建不规则三角网（TIN）进行体积计算\利用构建不规则三角网（TIN）进行体积计算\bin\Debug\利用构建不规则三角网（TIN）进行体积计算.exe
+D:\2022测绘程序设计练习代码\2022省赛\利用构建不规则三角网（TIN）进行体积计算\利用构建不规则三角网（TIN）进行体积计算\bin\Debug\利用构建不规则三角网（TIN）进行体积计算.pdb
+D:\2022测绘程序设计练习代码\2022省赛\利用构建不规则三角网（TIN）进行体积计算\利用构建不规则三角网（TIN）进行体积计算\obj\Debug\利用构建不规则三角网（TIN）进行体积计算.csproj.AssemblyReference.cache
+D:\2022测绘程序设计练习代码\2022省赛\利用构建不规则三角网（TIN）进行体积计算\利用构建不规则三角网（TIN）进行体积计算\obj\Debug\利用构建不规则三角网_TIN_进行体积计算.Form1.resources
+D:\2022测绘程序设计练习代码\2022省赛\利用构建不规则三角网（TIN）进行体积计算\利用构建不规则三角网（TIN）进行体积计算\obj\Debug\利用构建不规则三角网_TIN_进行体积计算.Properties.Resources.resources
+D:\2022测绘程序设计练习代码\2022省赛\利用构建不规则三角网（TIN）进行体积计算\利用构建不规则三角网（TIN）进行体积计算\obj\Debug\利用构建不规则三角网（TIN）进行体积计算.csproj.GenerateResource.cache
+D:\2022测绘程序设计练习代码\2022省赛\利用构建不规则三角网（TIN）进行体积计算\利用构建不规则三角网（TIN）进行体积计算\obj\Debug\利用构建不规则三角网（TIN）进行体积计算.csproj.CoreCompileInputs.cache
+D:\2022测绘程序设计练习代码\2022省赛\利用构建不规则三角网（TIN）进行体积计算\利用构建不规则三角网（TIN）进行体积计算\obj\Debug\利用构建不规则三角网（TIN）进行体积计算.exe
+D:\2022测绘程序设计练习代码\2022省赛\利用构建不规则三角网（TIN）进行体积计算\利用构建不规则三角网（TIN）进行体积计算\obj\Debug\利用构建不规则三角网（TIN）进行体积计算.pdb

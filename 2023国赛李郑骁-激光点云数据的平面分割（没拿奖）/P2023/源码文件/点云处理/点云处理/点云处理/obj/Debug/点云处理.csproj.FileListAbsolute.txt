@@ -1,0 +1,10 @@
+C:\Users\李郑骁的spin5\Documents\Visual Studio 2017\Projects\点云处理\点云处理\bin\Debug\点云处理.exe.config
+C:\Users\李郑骁的spin5\Documents\Visual Studio 2017\Projects\点云处理\点云处理\bin\Debug\点云处理.exe
+C:\Users\李郑骁的spin5\Documents\Visual Studio 2017\Projects\点云处理\点云处理\bin\Debug\点云处理.pdb
+C:\Users\李郑骁的spin5\Documents\Visual Studio 2017\Projects\点云处理\点云处理\obj\Debug\点云处理.csprojAssemblyReference.cache
+C:\Users\李郑骁的spin5\Documents\Visual Studio 2017\Projects\点云处理\点云处理\obj\Debug\点云处理.Form1.resources
+C:\Users\李郑骁的spin5\Documents\Visual Studio 2017\Projects\点云处理\点云处理\obj\Debug\点云处理.Properties.Resources.resources
+C:\Users\李郑骁的spin5\Documents\Visual Studio 2017\Projects\点云处理\点云处理\obj\Debug\点云处理.csproj.GenerateResource.cache
+C:\Users\李郑骁的spin5\Documents\Visual Studio 2017\Projects\点云处理\点云处理\obj\Debug\点云处理.csproj.CoreCompileInputs.cache
+C:\Users\李郑骁的spin5\Documents\Visual Studio 2017\Projects\点云处理\点云处理\obj\Debug\点云处理.exe
+C:\Users\李郑骁的spin5\Documents\Visual Studio 2017\Projects\点云处理\点云处理\obj\Debug\点云处理.pdb

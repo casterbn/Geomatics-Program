@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "利用构建不规则三角网（TIN）进行体积计算", "利用构建不规则三角网（TIN）进行体积计算\利用构建不规则三角网（TIN）进行体积计算.csproj", "{537CA9CB-A6D3-49AE-B0B7-1C79FDD148CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{537CA9CB-A6D3-49AE-B0B7-1C79FDD148CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{537CA9CB-A6D3-49AE-B0B7-1C79FDD148CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{537CA9CB-A6D3-49AE-B0B7-1C79FDD148CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{537CA9CB-A6D3-49AE-B0B7-1C79FDD148CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
