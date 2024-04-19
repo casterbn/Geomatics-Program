@@ -11,14 +11,15 @@
     <img src="https://komarev.com/ghpvc/?username=LiZhengXiao99&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 </div>
 <div align="center">
-    <a name="1-1"></a>
+    <a name="Top"></a>
+    <br/>
    	<details>
         <summary><strong>赛前日程安排（点击展开）</strong></summary>
-		<p><img src="https://pic-bed-1316053657.cos.ap-nanjing.myqcloud.com/img/936ea9a0d114fe8f36f90f528be827ed_720.png" alt="936ea9a0d114fe8f36f90f528be827ed_720" style="zoom: 40%;" /></p>
+		<p><img src="赛前日程安排.png" style="zoom: 40%;" /></p>
     </details>
     <details>
         <summary><strong>2024年测绘程序设计比赛选题及说明（点击展开）</strong></summary>
-		<p><img src="https://pic-bed-1316053657.cos.ap-nanjing.myqcloud.com/img/233c5e17a7ea2755bae020f5f1198a29.png" alt="233c5e17a7ea2755bae020f5f1198a29" style="zoom: 45%;" /></p>
+		<p><img src="2024年程序设计比赛选题及说明.png" style="zoom: 40%;" /></p>
     </details>
 </div>
 
